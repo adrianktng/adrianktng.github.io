@@ -4,10 +4,9 @@ collection: publications
 permalink: /publications/2021-10-06_Ultra-high-field
 excerpt: 'We use advanced 7T laminar brain imagining and AI to understand the key computations performed by the human brain during stereoscopic perception.'
 date: 2021-10-06
+venue: 'Journal of Neuroscience'
 paperurl: 'https://doi.org/10.1523/jneurosci.0065-21.2021'
-page_url: 'https://doi.org/10.1523/jneurosci.0065-21.2021'
-citation: 'Ng, A. K. T., Jia, K., Goncalves, N. R., Zamboni, E., Kemper, V., Goebel, R., Welchman, A. E., & Kourtzi, Z. (2021). Ultra-high-field neuroimaging reveals fine-scale processing for 3D perception. <i>Journal of Neuroscience</i>, <i>41</i>(40), 8362-8374. '
-
+citation: 'Ng, A. K. T., Jia, K., Goncalves, N. R., Zamboni, E., Kemper, V., Goebel, R., Welchman, A. E., & Kourtzi, Z. (2021). Ultra-high-field neuroimaging reveals fine-scale processing for 3D perception. <i>Journal of Neuroscience</i>, <i>41</i>(40), 8362-8374.'
 ---
 We use advanced 7T laminar brain imagining and AI to understand the key computations performed by the human brain during stereoscopic perception.
 
@@ -16,5 +15,7 @@ Binocular disparity provides critical information about three-dimensional (3D) s
 
 Significance Statement:
 Binocular vision plays a significant role in supporting our interactions with the surrounding environment. The fine-scale neural mechanisms that underlie the brain's skill in extracting 3D structures from binocular signals are poorly understood. Here, we capitalize on recent advances in ultra-high-field functional imaging to interrogate human brain circuits involved in 3D perception at submillimeter resolution. We provide evidence for the role of area V3A as a key nexus for disparity processing, which is implicated in feedforward and feedback signals related to the perceptual estimation of 3D structures from binocular signals. These fine-scale measurements help bridge the gap between animal neurophysiology and human fMRI studies investigating cross-scale circuits, from micro circuits to global brain networks for 3D perception.
-<!---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
+
+[Download paper here](https://www.jneurosci.org/content/jneuro/41/40/8362.full.pdf)
+
+Recommended citation: Ng, A. K. T., Jia, K., Goncalves, N. R., Zamboni, E., Kemper, V., Goebel, R., Welchman, A. E., & Kourtzi, Z. (2021). Ultra-high-field neuroimaging reveals fine-scale processing for 3D perception. <i>Journal of Neuroscience</i>, <i>41</i>(40), 8362-8374.
