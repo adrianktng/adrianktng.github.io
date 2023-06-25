@@ -1,0 +1,14 @@
+---
+title: "Integrating visual-vestibular mismatch and posture instability in virtual reality: A cyber-sickness study"
+collection: publications
+permalink: /publications/2020-10_Integrating_visual-vestibular
+excerpt: 'We explore the aetiology of cybersickness by integrating visual-vestibular mismatch and posture instability using VR display.'
+date: 2020-10-01
+paperurl: 'https://doi.org/10.1167/jov.20.11.205'
+page_url: 'https://doi.org/10.1167/jov.20.11.205'
+citation: 'Ng, A. K. T., Chan, L. K. Y., & Lau, H. Y. K. (2020). Integrating visual-vestibular mismatch and posture instability in virtual reality: A cyber-sickness study. <i>Journal of Vision</i>, <i>20</i>(11), 205.'
+---
+We explore the aetiology of cybersickness by integrating visual-vestibular mismatch and posture instability using VR display.
+
+Abstract:
+Virtual reality (VR) displays can introduce nausegenic symptoms, often known as cyber-sickness. One dominant hypothesis explained the malady by the mismatch between afferent signals from visual, vestibular, and other systems, and the discrepancy with the predictions made based on real-world experiences. Another proposed that sickness occurs when one’s ability to maintain a stable bodily orientation is challenged. To date, only a few studies have been conducted to examine the interactions between them. Here, we explore the effects of visual-vestibular mismatch and posture instability through measuring cyber-sickness discomfort level and symptoms. The independent variables involving two levels of: sensory conflict (with or without illusory self-motion elicited visually by an HTC Vive head-mounted display) and postural challenge (with or without low-frequency vibration induced while a participant stands on a 3DoF motion platform), were manipulated alone or in combination. Together with the control condition, participants (n = 12) experienced one of the four conditions for 4.4 min each day in four separate days. During the stimulus presentation, the participant engaged in a visual search task that promote similar eye movement across conditions while the discomfort was measured using Misery Scale (MISC) every minute and Simulator Sickness Questionnaire (SSQ) before and after each condition. Results showed that higher discomfort levels and more symptoms were associated with the combined and the sensory conflict only condition compared to other conditions. In addition, spontaneous postural instability was measured while the participant stood on a Wii balance board for 1 min with their eyes closed. The standard deviation of the center of pressure (CoP) displacement in the anterior-posterior (AP) direction was higher after experiencing the combined condition than before the exposure. Our results suggest that the visual-vestibular mismatch might be one of the requisite causes for cyber-sickness, while postural stability might be a moderator variable.
